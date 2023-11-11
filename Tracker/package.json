@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "http://beltenrique.github.io/project15/build",
+  
   "scripts": {
     "start": "react-scripts start",
     "predeploy" : "npm run build",
