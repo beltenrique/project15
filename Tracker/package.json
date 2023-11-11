@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "http://github-beltenrique.github.io/project15",
+  "homepage": "http://beltenrique.github.io/project15",
   "scripts": {
     "predeploy" : "npm run build",
     "deploy" : "gh-pages -d build",
